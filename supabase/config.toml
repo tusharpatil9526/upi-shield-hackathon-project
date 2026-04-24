@@ -1,0 +1,4 @@
+project_id = "miqwjdukcucwakbtpvit"
+
+[functions.analyse-transaction]
+verify_jwt = false
